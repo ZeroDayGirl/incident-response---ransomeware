@@ -1,5 +1,5 @@
-# incident-response---ransomeware
-## Incident Response Simulation – Ransomware Scenario
+# incident-response---ransomware
+## Incident Response Simulation – 
 
 ### Overview
 
